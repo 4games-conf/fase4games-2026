@@ -10,7 +10,7 @@ title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Gam
 
 > Montreal, Canada
 
-> Sun 5 - Thu 9 July, 2026 (Precise date TBA)
+> Workshops will be held over two days -- one day preceding the main conference and one day after the main conference, i.e., **July 5th and July 9th** (Precise date TBA)
 
 
 # Theme
@@ -53,24 +53,6 @@ Such challenges include, but are not limited to:
 - **Game design/requirements engineering** in games.
 
 
-# Audience
-The targeted audience includes people from the international community in academia or industry with an interest in game development methods from a software engineering perspective. 
+# Call for Papers
 
-The workshop will be open to anyone with related interests (i.e., not restricted to authors/co-authors), including game researchers (students and faculty), developers, and educators. As in previous editions, it will attract a cross-disciplinary, diverse community.
-
-# Workshop Format
-
-<!-- FaSE4Games'26 is a **half-day** _hybrid_ workshop.  -->
-FaSE4Games'26 will be interactive, encourage discussion, and appeal to participants from academia, education, and industry. 
-
-The workshop will feature **one keynote**, short and long presentations with discussions, and a social event to build strong, lasting relationships among participants. 
-
-FaSE4Games'26 provides a forum to explore the challenges that crosscut the software-engineering and game-development communities. The goal of FaSE4Games is to provide a safe space for academic game researchers and commercial game developers to present, discuss, and advance the state-of-the-art relevant to the emerging and current challenges of software engineering for games.
-
-# Paper Selection
-
-The page limits are **5 to 8 pages** for short and long papers, respectively. For each accepted paper, we will require at least one author to register, attend, and present.
-
-# Proceedings
-
-The proceedings will appear in the ACM digital library. Consequently, at least one of the authors must register for the workshop.
+See [https://fase4games.quest/cfp/](https://fase4games.quest/cfp/)

@@ -11,6 +11,10 @@ During these last editions of the workshop, different topics were discussed with
 
 [The 2024 edition of FaSE4Games](https://4games-conf.github.io/fase4games-2024/) further solidified the workshop's reputation, featuring one keynote, and four papers and presentations. We also organized a brainstorming and feedback panel that promoted active engagement among attendees. This edition successfully built a network of game researchers, developers, and educators, advancing discussions on the challenges of applying software-engineering methods to games.
 
+[The 2025 edition of FaSE4Games](https://4games-conf.github.io/fase4games-2025/), FaSE4Games expanded significantly, featuring a keynote from academia from professor Jeremy Bradbury of Ontario Tech University titled: "Personalizing Software Engineering Serious Games Using AI". 
+We had three papers and a peak of 25 attendees. We finished with an interactive session that built strong collaboration between researchers and developers.  
+
+
 
 Thus, with FaSE4Games'26, we seek:
 
